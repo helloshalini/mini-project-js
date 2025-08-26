@@ -15,19 +15,27 @@ body {
     justify-content: center;
 }
 
-.red {
+.yellow {
     background-color: #f99b45;
 }
 
-.yellow {
+.red {
     background-color: #d95980;
 }
 
-.green {
+.purple {
     background-color: #819ff9;
 }
 
-.blue {
+.green {
     background-color: #63aac0;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: green;
 }
 
